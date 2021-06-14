@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1623010132 source:c:\users\s3eed\desktop\codeblock\بروجيكت\main.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
